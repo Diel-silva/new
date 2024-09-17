@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(77, 77, 77);
+}
+
+#move{
+    text-align: center;
+    font-size: x-large;   
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    line-height: 50px;
+}
+img{
+    height: 250px;
+    width: 250px;
+    border: solid red;
+    max-width: 100%;
+    display: block;
+    background: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40%;
+}
+#sobre{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+#contato{
+    color: aliceblue;
+}
